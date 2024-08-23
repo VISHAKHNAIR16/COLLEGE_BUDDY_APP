@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "26049527788",
+    "project_id": "vsync-1c040",
+    "storage_bucket": "vsync-1c040.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26049527788:android:952a967231359c43d10ac9",
+        "android_client_info": {
+          "package_name": "com.example.microit_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVHfxIXDn0uTsj-DRcRxD6fmIL2QNjr1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
